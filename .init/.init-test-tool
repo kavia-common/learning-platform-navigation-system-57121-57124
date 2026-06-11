@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/learning-platform-navigation-system-57121-57124/linguaspeak_backend"
+}
